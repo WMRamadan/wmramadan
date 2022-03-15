@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, and an Audio Developer.
 
-- I focus on develping web applications.
+- I focus on developing web applications.
 - My passion is making really cool audio plugins.
 - Fun fact: I love making music.
 
