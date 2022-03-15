@@ -44,3 +44,5 @@
 [youtube]: https://www.youtube.com/channel/UCSA1wW7mGJOE5hEhXTO6enQ
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
+
+![Profile views](https://gpvc.arturio.dev/wmramadan)
