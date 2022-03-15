@@ -32,12 +32,6 @@
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Why is Apple Switching to ARM?](https://www.youtube.com/watch?v=8LXeVUFwAa0)
-<!-- YOUTUBE:END -->
-
 [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmramadan&show_icons=true&theme=tokyonight)
 ](https://github.com/wmramadan/github-readme-stats)
 
@@ -46,5 +40,11 @@
 [youtube]: https://www.youtube.com/channel/UCSA1wW7mGJOE5hEhXTO6enQ
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Why is Apple Switching to ARM?](https://www.youtube.com/watch?v=8LXeVUFwAa0)
+<!-- YOUTUBE:END -->
 
 ![Profile views](https://gpvc.arturio.dev/wmramadan)
