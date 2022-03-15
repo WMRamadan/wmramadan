@@ -1,6 +1,6 @@
 # Hi there,
 
-## I'm a Software Developer, and an Audio Developer.
+## I'm a Software Developer.
 
 - I focus on developing web applications.
 - My passion is making really cool audio plugins.
