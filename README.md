@@ -41,6 +41,8 @@
 [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmramadan&show_icons=true&theme=tokyonight)
 ](https://github.com/wmramadan/github-readme-stats)
 
+![Wael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmramadan&show_icons=true&theme=tokyonight)
+
 [youtube]: https://www.youtube.com/channel/UCSA1wW7mGJOE5hEhXTO6enQ
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
