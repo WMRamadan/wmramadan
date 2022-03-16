@@ -3,8 +3,8 @@
 ## I'm a Software Developer.
 
 - I focus mainly on Python.
-- My passion is making audio plugins.
-- Fun fact: I love making music.
+- My hobby is making music and audio plugins.
+- Fun fact: I love open source software.
 
 ### Connect with me
 
