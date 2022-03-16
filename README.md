@@ -40,10 +40,8 @@
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
 
-### 📺 Latest YouTube Videos
+### Articles & Tutorials
 
-<!-- YOUTUBE:START -->
-- [Why is Apple Switching to ARM?](https://www.youtube.com/watch?v=8LXeVUFwAa0)
-<!-- YOUTUBE:END -->
+- <img align="left" alt="Medium" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/medium_icon.png" />[Medium](https://medium.com/@wamramadan)
 
 ![Profile views](https://gpvc.arturio.dev/wmramadan)
