@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer.
 
-- I focus on developing web applications.
-- My passion is making really cool audio plugins.
+- I focus mainly on Python.
+- My passion is making audio plugins.
 - Fun fact: I love making music.
 
 ### Connect with me
