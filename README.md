@@ -44,5 +44,6 @@
 ### Articles & Tutorials
 
 - <img align="left" alt="DevTo" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/devto_logo.png" />[Dev.to](https://dev.to/wmramadan)
+- <img align="left" alt="Medium" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/medium_icon.png" />[Medium](https://medium.com/@wamramadan)
 
 ![Profile views](https://gpvc.arturio.dev/wmramadan)
