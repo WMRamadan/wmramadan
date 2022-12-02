@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer.
 
-- I've been a Software Development junkie since 1991.
+- I've been a computer junkie since 1991.
 - My hobby is making music and audio plugins.
 - Fun fact: I love open source software.
 
