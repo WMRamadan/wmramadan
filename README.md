@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer.
 
-- I focus mainly on Product Software Engineering.
+- I've been a Software Development junkie since 1991.
 - My hobby is making music and audio plugins.
 - Fun fact: I love open source software.
 
