@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer.
 
-- I focus mainly on Python and Javascript.
+- I focus mainly on Software Product Engineering.
 - My hobby is making music and audio plugins.
 - Fun fact: I love open source software.
 
