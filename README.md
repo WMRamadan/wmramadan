@@ -1,6 +1,6 @@
 # Hi there,
 
-## I'm a Software Developer.
+## I Love Building Software.
 
 - I've been a computer junkie since 1991.
 - My hobby is making music and audio plugins.
