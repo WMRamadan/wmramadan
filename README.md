@@ -40,6 +40,10 @@
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
 
+### Certifications & Training
+
+[AWS EC2 Systems Manager - Certificate of Completion](./images/aws_ec2_systems_manager.jpg)
+
 ### Articles & Tutorials
 
 - <img align="left" alt="DevTo" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/devto_logo.png" />[Dev.to](https://dev.to/wmramadan)
