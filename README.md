@@ -42,6 +42,9 @@
 
 ### Certifications & Training
 
+[AWS Intro to Scaling - Certificate of Completion](./images/intro_to_aws_scaling.png)
+[AWS Authentication & Authorization with IAM](./images/authentication_n_authorization_with_aws_iam.png)
+[AWS Elemental Foundations - Video Delivery Basics - Certificate of Completion](./images/aws_elemental_foundations_video_delivery_basics.png)
 [AWS EC2 Systems Manager - Certificate of Completion](./images/aws_ec2_systems_manager.jpg)
 
 ### Articles & Tutorials
