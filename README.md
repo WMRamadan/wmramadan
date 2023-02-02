@@ -1,6 +1,6 @@
 # Hi there,
 
-## I am passionate about technology, innovation trends, software development and cloud computing.
+## Passionate about technology, innovation trends, software development and cloud computing.
 
 - I've been a computer junkie since 1991.
 - My hobby is making music and audio plugins.
