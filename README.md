@@ -25,17 +25,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C Plus Plus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/docker_icon.png" />
-<img align="left" alt="Audio Kit" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/audiokit_icon.png" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/terraform_icon.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
 <br />
-
-![Wael's GitHub stats](https://github-readme-stats-wmramadan.vercel.app/api?username=wmramadan&count_private=true&show_icons=true&theme=tokyonight&update=1)
-
-![Wael's Top Languages](https://github-readme-stats-wmramadan.vercel.app/api/top-langs/?username=wmramadan&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&update=1)
-
 
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
