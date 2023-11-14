@@ -27,6 +27,7 @@
 <img align="left" alt="Docker" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/docker_icon.png" />
 <img align="left" alt="Terraform" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/terraform_icon.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/kubernetes_icon.png" />
+<img align="left" alt="Helm" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/helm_icon.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
