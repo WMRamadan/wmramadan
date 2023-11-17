@@ -15,7 +15,7 @@
 <br />
 
 ### Languages and Tools:
-<p float="left">
+
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/pycharm_icon.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,7 +35,7 @@
 <img align="left" alt="Kafka" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/kafka_icon.png" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/elasticsearch_icon.png" />
 <img align="left" alt="RabbitMQ" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/rabbitmq_icon.png" />
-</p>
+
 <br />
 <br />
 
