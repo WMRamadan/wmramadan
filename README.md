@@ -32,6 +32,7 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/sql_icon.png" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/redis_icon.png" />
+<img align="left" alt="Kafka" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/kafka_icon.png" />
 
 <br />
 <br />
