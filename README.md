@@ -2,7 +2,7 @@
 
 ## I love software development and cloud computing.
 
-- I've been a computer junkie since 1991.
+- My journey with Linux start in 1999.
 - My hobby is making music and audio plugins.
 - Fun fact: I love open source software.
 
