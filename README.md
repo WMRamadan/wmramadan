@@ -1,6 +1,6 @@
 # Hi there,
 
-## I love software development and cloud computing.
+## I love software development and Linux.
 
 - My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server-side.
 - My hobby is making music and audio plugins.
