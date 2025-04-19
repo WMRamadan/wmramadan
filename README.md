@@ -2,7 +2,7 @@
 
 ## I love software development and cloud computing.
 
-- My journey with Linux started in 1998.
+- My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux started in 1998.
 - My hobby is making music and audio plugins.
 - Fun fact: I love open source software.
 
