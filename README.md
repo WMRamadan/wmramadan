@@ -21,7 +21,7 @@
 
 ### Languages:
 
-<img align="left" alt="JavaScript" width="48px" src="./imags/JavaScript.svg" />
+<img align="left" alt="JavaScript" width="48px" src="./images/JavaScript.svg" />
 
 <br />
 <br />
