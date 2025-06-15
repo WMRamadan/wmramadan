@@ -60,6 +60,7 @@
 <img align="left" alt="Bitbucket" width="48px" src="./images/Bitbucket.svg" />
 <img align="left" alt="Gitlab" width="48px" src="./images/Gitlab.svg" />
 <img align="left" alt="Github" width="48px" src="./images/Github.svg" />
+<img align="left" alt="Github" width="48px" src="./images/Gradle.svg" />
 
 
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
