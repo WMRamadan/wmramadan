@@ -7,6 +7,7 @@
 - Fun fact: I love open source software.
 
 [![GitHub followers](https://img.shields.io/github/followers/WMRamadan?logo=GitHub&style=for-the-badge)](https://github.com/WMRamadan)
+[![GitHub Stars](https://img.shields.io/github/stars/homelabpro?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
 
 ### Connect with me
 
