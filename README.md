@@ -1,5 +1,7 @@
 # Hi there,
 
+![Hero image](https://github.com/WMRamadan/wmramadan/blob/main/images/switch_banner.jpg)
+
 ## Here are some facts about me.
 
 - My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server-side.
