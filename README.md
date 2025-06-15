@@ -33,9 +33,13 @@
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
 
-### Articles & Tutorials
+### Operating Systems
 
-- <img align="left" alt="DevTo" width="26px" src="https://github.com/WMRamadan/wmramadan/blob/main/images/devto_logo.png" />[Dev.to](https://dev.to/wmramadan)
+<img align="left" alt="AlpineLinux" width="48px" src="./images/AlpineLinux.svg" />
+<img align="left" alt="Debian" width="48px" src="./images/Debian.svg" />
+<img align="left" alt="Fedora" width="48px" src="./images/Fedora.svg" />
+<img align="left" alt="FreeBSD" width="48px" src="./images/FreeBSD.svg" />
+<img align="left" alt="Ubuntu" width="48px" src="./images/Ubuntu.svg" />
 
 <br />
 
