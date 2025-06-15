@@ -23,6 +23,7 @@
 
 <img align="left" alt="JavaScript" width="48px" src="./images/JavaScript.svg" />
 <img align="left" alt="TypeScript" width="48px" src="./images/TypeScript.svg" />
+<img align="left" alt="GoLang" width="48px" src="./images/GoLang.svg" />
 
 <br />
 <br />
