@@ -1,6 +1,6 @@
 # Hi there,
 
-![Hero image](https://github.com/WMRamadan/wmramadan/blob/main/images/switch_banner.jpg)
+<img alighn="center" alt="Banner" width="50%" height="50%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/switch_banner.jpg" />
 
 ## Here are some facts about me.
 
