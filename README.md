@@ -2,7 +2,7 @@
 
 <img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_slim_banner.jpg" />
 
-## Here are some facts about me.
+## Here are some facts about me. ![](https://komarev.com/ghpvc/?username=wmramadan&style=flat-square)
 
 - My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server-side.
 - My hobby is making music, messing around with different audio technologies, being a wanna be audiophile and home labbing till it hurts.
@@ -40,8 +40,3 @@
 <img align="left" alt="Fedora" width="48px" src="./images/Fedora.svg" />
 <img align="left" alt="FreeBSD" width="48px" src="./images/FreeBSD.svg" />
 <img align="left" alt="Ubuntu" width="48px" src="./images/Ubuntu.svg" />
-
-<br />
-<br />
-
-![](https://komarev.com/ghpvc/?username=wmramadan&style=flat-square)
