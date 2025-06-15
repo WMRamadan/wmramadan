@@ -6,7 +6,6 @@
 - My hobby is making music, messing around with different audio technologies, being a wanna be audiophile and home labbing till it hurts.
 - Fun fact: I love open source software.
 
-[![GitHub followers](https://img.shields.io/github/followers/WMRamadan?logo=GitHub&style=for-the-badge)](https://github.com/WMRamadan)
 [![GitHub Stars](https://img.shields.io/github/stars/homelabpro?logo=github&style=for-the-badge)](https://github.com/homelabpro)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
 
