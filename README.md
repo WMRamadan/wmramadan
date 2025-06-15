@@ -2,7 +2,7 @@
 
 <img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_slim_banner.jpg" />
 
-## Here are some facts about me. ![](https://komarev.com/ghpvc/?username=wmramadan&style=flat-square)
+## Here are some facts about me.
 
 - My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server-side.
 - My hobby is making music, messing around with different audio technologies, being a wanna be audiophile and home labbing till it hurts.
@@ -15,6 +15,7 @@
 
 [<img align="left" alt="Wael Ramadan | LinkedIn" width="48px" src="./images/LinkedIn.svg" />][linkedin]
 [<img align="left" alt="Wael Ramadan | Twitter" width="48px" src="./images/Twitter.svg" />][twitter]
+![](https://komarev.com/ghpvc/?username=wmramadan&style=flat-square)
 
 <br />
 <br />
