@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Wael Ramadan | LinkedIn" width="22px" src="./icons/LinedIn.svg" width="48" />][linkedin]
+[<img align="left" alt="Wael Ramadan | LinkedIn" width="22px" src="./images/LinedIn.svg" width="48" />][linkedin]
 [<img align="left" alt="Wael Ramadan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
