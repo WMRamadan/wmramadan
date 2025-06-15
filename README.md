@@ -49,5 +49,14 @@
 <img align="left" alt="LXC" width="48px" src="./images/LXC.svg" />
 <img align="left" alt="ProxMox" width="48px" src="./images/ProxMox.svg" />
 
+<br />
+<br />
+
+### IaC
+
+<img align="left" alt="Ansible" width="48px" src="./images/Ansible.svg" />
+<img align="left" alt="Terraform" width="48px" src="./images/Terraform.svg" />
+
+
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
