@@ -6,6 +6,8 @@
 - My hobby is making music, messing around with different audio technologies, being a wanna be audiophile and home labbing till it hurts.
 - Fun fact: I love open source software.
 
+[![GitHub followers](https://img.shields.io/github/followers/WMRamadan?logo=GitHub&style=for-the-badge)](https://github.com/WMRamadan)
+
 ### Connect with me
 
 [<img align="left" alt="Wael Ramadan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
