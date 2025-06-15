@@ -25,6 +25,7 @@
 <img align="left" alt="TypeScript" width="48px" src="./images/TypeScript.svg" />
 <img align="left" alt="GoLang" width="48px" src="./images/GoLang.svg" />
 <img align="left" alt="Python" width="48px" src="./images/Python.svg" />
+<img align="left" alt="Bash" width="48px" src="./images/Bash.svg" />
 
 <br />
 <br />
