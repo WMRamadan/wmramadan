@@ -52,7 +52,7 @@
 <br />
 <br />
 
-### IaC & CI/CD
+### IaC, CI/CD & GitOps
 
 <img align="left" alt="Ansible" width="48px" src="./images/Ansible.svg" />
 <img align="left" alt="Terraform" width="48px" src="./images/Terraform.svg" />
@@ -64,6 +64,7 @@
 <img align="left" alt="Maven" width="48px" src="./images/Maven.svg" />
 <img align="left" alt="npm" width="48px" src="./images/npm.svg" />
 <img align="left" alt="Bazel" width="48px" src="./images/Bazel.svg" />
+<img align="left" alt="Helm" width="48px" src="./images/Helm.svg" />
 
 
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
