@@ -42,7 +42,7 @@
 <br />
 <br />
 
-## Virtualization & Containerization
+### Virtualization & Containerization
 
 <img align="left" alt="Docker" width="48px" src="./images/Docker.svg" />
 <img align="left" alt="Kubernetes" width="48px" src="./images/Kubernetes.svg" />
