@@ -22,6 +22,7 @@
 ### Languages:
 
 <img align="left" alt="JavaScript" width="48px" src="./images/JavaScript.svg" />
+<img align="left" alt="TypeScript" width="48px" src="./images/TypeScript.svg" />
 
 <br />
 <br />
