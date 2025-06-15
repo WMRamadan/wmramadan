@@ -20,52 +20,5 @@
 <br />
 <br />
 
-### Programming & Scripting:
-
-<img align="left" alt="JavaScript" width="48px" src="./images/JavaScript.svg" />
-<img align="left" alt="TypeScript" width="48px" src="./images/TypeScript.svg" />
-<img align="left" alt="GoLang" width="48px" src="./images/GoLang.svg" />
-<img align="left" alt="Python" width="48px" src="./images/Python.svg" />
-<img align="left" alt="Bash" width="48px" src="./images/Bash.svg" />
-
-<br />
-<br />
-
-### Server Operating Systems
-
-<img align="left" alt="AlpineLinux" width="48px" src="./images/AlpineLinux.svg" />
-<img align="left" alt="Debian" width="48px" src="./images/Debian.svg" />
-<img align="left" alt="Fedora" width="48px" src="./images/Fedora.svg" />
-<img align="left" alt="FreeBSD" width="48px" src="./images/FreeBSD.svg" />
-<img align="left" alt="Ubuntu" width="48px" src="./images/Ubuntu.svg" />
-
-<br />
-<br />
-
-### Virtualization & Containerization
-
-<img align="left" alt="Docker" width="48px" src="./images/Docker.svg" />
-<img align="left" alt="Kubernetes" width="48px" src="./images/Kubernetes.svg" />
-<img align="left" alt="LXC" width="48px" src="./images/LXC.svg" />
-<img align="left" alt="ProxMox" width="48px" src="./images/ProxMox.svg" />
-
-<br />
-<br />
-
-### IaC, CI/CD & GitOps
-
-<img align="left" alt="Ansible" width="48px" src="./images/Ansible.svg" />
-<img align="left" alt="Terraform" width="48px" src="./images/Terraform.svg" />
-<img align="left" alt="Git" width="48px" src="./images/Git.svg" />
-<img align="left" alt="Bitbucket" width="48px" src="./images/Bitbucket.svg" />
-<img align="left" alt="Gitlab" width="48px" src="./images/Gitlab.svg" />
-<img align="left" alt="Github" width="48px" src="./images/Github.svg" />
-<img align="left" alt="Gradle" width="48px" src="./images/Gradle.svg" />
-<img align="left" alt="Maven" width="48px" src="./images/Maven.svg" />
-<img align="left" alt="npm" width="48px" src="./images/npm.svg" />
-<img align="left" alt="Bazel" width="48px" src="./images/Bazel.svg" />
-<img align="left" alt="Helm" width="48px" src="./images/Helm.svg" />
-
-
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
