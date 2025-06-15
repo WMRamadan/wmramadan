@@ -1,6 +1,6 @@
 # Hi there,
 
-<img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_banner_image.jpg" />
+<img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_slim_banner.jpg" />
 
 ## Here are some facts about me.
 
