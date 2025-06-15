@@ -41,3 +41,9 @@
 <img align="left" alt="Fedora" width="48px" src="./images/Fedora.svg" />
 <img align="left" alt="FreeBSD" width="48px" src="./images/FreeBSD.svg" />
 <img align="left" alt="Ubuntu" width="48px" src="./images/Ubuntu.svg" />
+
+## Virtualization & Containerization
+
+<img align="left" alt="Docker" width="48px" src="./images/Docker.svg" />
+<img align="left" alt="Kubernetes" width="48px" src="./images/Kubernetes.svg" />
+<img align="left" alt="ProxMox" width="48px" src="./images/ProxMox.svg" />
