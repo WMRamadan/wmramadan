@@ -1,4 +1,4 @@
-# Hi there,
+# Hi there, welcome to my profile.
 
 <img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_slim_banner.jpg" />
 
