@@ -52,10 +52,14 @@
 <br />
 <br />
 
-### IaC
+### IaC & CI/CD
 
 <img align="left" alt="Ansible" width="48px" src="./images/Ansible.svg" />
 <img align="left" alt="Terraform" width="48px" src="./images/Terraform.svg" />
+<img align="left" alt="Git" width="48px" src="./images/Git.svg" />
+<img align="left" alt="Bitbucket" width="48px" src="./images/Bitbucket.svg" />
+<img align="left" alt="Gitlab" width="48px" src="./images/Gitlab.svg" />
+<img align="left" alt="Github" width="48px" src="./images/Github.svg" />
 
 
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
