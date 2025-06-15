@@ -34,7 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
 
-### Operating Systems
+### Server Operating Systems
 
 <img align="left" alt="AlpineLinux" width="48px" src="./images/AlpineLinux.svg" />
 <img align="left" alt="Debian" width="48px" src="./images/Debian.svg" />
