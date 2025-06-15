@@ -31,9 +31,6 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
-[twitter]: https://twitter.com/WMRamadan
-
 ### Server Operating Systems
 
 <img align="left" alt="AlpineLinux" width="48px" src="./images/AlpineLinux.svg" />
@@ -42,8 +39,15 @@
 <img align="left" alt="FreeBSD" width="48px" src="./images/FreeBSD.svg" />
 <img align="left" alt="Ubuntu" width="48px" src="./images/Ubuntu.svg" />
 
+<br />
+<br />
+
 ## Virtualization & Containerization
 
 <img align="left" alt="Docker" width="48px" src="./images/Docker.svg" />
 <img align="left" alt="Kubernetes" width="48px" src="./images/Kubernetes.svg" />
+<img align="left" alt="LXC" width="48px" src="./images/LXC.svg" />
 <img align="left" alt="ProxMox" width="48px" src="./images/ProxMox.svg" />
+
+[linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
+[twitter]: https://twitter.com/WMRamadan
