@@ -61,6 +61,7 @@
 <img align="left" alt="Gitlab" width="48px" src="./images/Gitlab.svg" />
 <img align="left" alt="Github" width="48px" src="./images/Github.svg" />
 <img align="left" alt="Gradle" width="48px" src="./images/Gradle.svg" />
+<img align="left" alt="Maven" width="48px" src="./images/Maven.svg" />
 <img align="left" alt="npm" width="48px" src="./images/npm.svg" />
 <img align="left" alt="Bazel" width="48px" src="./images/Bazel.svg" />
 
