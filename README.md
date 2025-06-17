@@ -6,7 +6,7 @@
 
 - My journey with programming started in 1991 when JavaScript wasn't even created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server-side.
 - My hobby is making music, messing around with different technologies, being a wanna be audiophile and home labbing till it hurts.
-- Fun fact: The Hurd kernel was the GNU Project’s original, microkernel-based kernel meant to create a fully free Unix-like OS (GNU OS), but due to slow progress Linux became the official GNU kernel creating GNU/Linux.
+- Fun fact: The Hurd kernel was the GNU Project’s original microkernel-based kernel, meant to create a fully free Unix-like OS (GNU OS), but due to slow progress Linux became the official GNU kernel creating GNU/Linux.
 
 [![GitHub Stars](https://img.shields.io/github/stars/WMRamadan?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
