@@ -16,9 +16,11 @@
 
 [<img align="left" alt="Wael Ramadan | LinkedIn" width="48px" src="./images/LinkedIn.svg" />][linkedin]
 [<img align="left" alt="Wael Ramadan | Twitter" width="48px" src="./images/Twitter.svg" />][twitter]
+[<img align="left" alt="Wael Ramadan | YouTube" width="48px" src="./images/YouTube.svg" />][youtube]
 
 <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/wael-ramadan-07492622/
 [twitter]: https://twitter.com/WMRamadan
+[youtube]: https://www.youtube.com/@WMRamadan
