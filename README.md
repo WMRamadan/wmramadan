@@ -14,6 +14,7 @@
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) — [![GitHub Stars](https://img.shields.io/github/stars/JonMagon/KDiskMark?style=flat&logo=github)](https://github.com/JonMagon/KDiskMark)
 - [Audio Super Resolution](https://github.com/kuleshov/audio-super-res) — [![GitHub Stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=flat&logo=github)](https://github.com/kuleshov/audio-super-res)
 - [GitHub Top Committers](https://github.com/ashkulz/committers.top) — [![GitHub Stars](https://img.shields.io/github/stars/ashkulz/committers.top?style=flat&logo=github)](https://github.com/ashkulz/committers.top)
+- [OS Utils NPM Library](https://github.com/oscmejia/os-utils) — [![GitHub Stars](https://img.shields.io/github/stars/oscmejia/os-utils?style=flat&logo=github)](https://github.com/oscmejia/os-utils)
 
 [![GitHub Stars](https://img.shields.io/github/stars/WMRamadan?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
