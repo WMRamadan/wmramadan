@@ -12,6 +12,7 @@
 ## Open source contributions.
 - [goFiber Recipes](https://github.com/gofiber/recipes) — [![GitHub Stars](https://img.shields.io/github/stars/gofiber/recipes?style=flat&logo=github)](https://github.com/gofiber/recipes)
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) — [![GitHub Stars](https://img.shields.io/github/stars/JonMagon/KDiskMark?style=flat&logo=github)](https://github.com/JonMagon/KDiskMark)
+- [Audio Super Resolution](https://github.com/kuleshov/audio-super-res) — [![GitHub Stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=flat&logo=github)](https://github.com/kuleshov/audio-super-res)
 
 [![GitHub Stars](https://img.shields.io/github/stars/WMRamadan?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
