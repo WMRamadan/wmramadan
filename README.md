@@ -16,7 +16,6 @@
 - [AudioKit DrumPad Playground](https://github.com/AudioKit/DrumPadPlayground) — [![GitHub Stars](https://img.shields.io/github/stars/AudioKit/DrumPadPlayground?style=flat&logo=github)](https://github.com/AudioKit/DrumPadPlayground)
 - [CPU-G](https://github.com/atareao/cpu-g) — [![GitHub Stars](https://img.shields.io/github/stars/atareao/cpu-g?style=flat&logo=github)](https://github.com/atareao/cpu-g)
 
-## Stats.
+## GitHub Stats.
 [![GitHub Stars](https://img.shields.io/github/stars/WMRamadan?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
 ![](https://komarev.com/ghpvc/?username=wmramadan&style=flat-square)
