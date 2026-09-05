@@ -10,7 +10,6 @@
 - Kubernetes was originally an internal Google project called Project Seven, named after a character from Star Trek Voyager. The name Kubernetes comes from Greek term that means helmsman or pilot, which is someone who steers a ship. That's also why the logo looks like a ship's wheel.
 
 ## Open source contributions.
-- [goFiber Recipes](https://github.com/gofiber/recipes) — [![GitHub Stars](https://img.shields.io/github/stars/gofiber/recipes?style=flat&logo=github)](https://github.com/gofiber/recipes)
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) — [![GitHub Stars](https://img.shields.io/github/stars/JonMagon/KDiskMark?style=flat&logo=github)](https://github.com/JonMagon/KDiskMark)
 - [Audio Super Resolution](https://github.com/kuleshov/audio-super-res) — [![GitHub Stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=flat&logo=github)](https://github.com/kuleshov/audio-super-res)
 - [OS Utils NPM Library](https://github.com/oscmejia/os-utils) — [![GitHub Stars](https://img.shields.io/github/stars/oscmejia/os-utils?style=flat&logo=github)](https://github.com/oscmejia/os-utils)
