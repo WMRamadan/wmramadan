@@ -13,9 +13,7 @@
 - [goFiber Recipes](https://github.com/gofiber/recipes) — [![GitHub Stars](https://img.shields.io/github/stars/gofiber/recipes?style=flat&logo=github)](https://github.com/gofiber/recipes)
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) — [![GitHub Stars](https://img.shields.io/github/stars/JonMagon/KDiskMark?style=flat&logo=github)](https://github.com/JonMagon/KDiskMark)
 - [Audio Super Resolution](https://github.com/kuleshov/audio-super-res) — [![GitHub Stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=flat&logo=github)](https://github.com/kuleshov/audio-super-res)
-- [GitHub Top Committers](https://github.com/ashkulz/committers.top) — [![GitHub Stars](https://img.shields.io/github/stars/ashkulz/committers.top?style=flat&logo=github)](https://github.com/ashkulz/committers.top)
 - [OS Utils NPM Library](https://github.com/oscmejia/os-utils) — [![GitHub Stars](https://img.shields.io/github/stars/oscmejia/os-utils?style=flat&logo=github)](https://github.com/oscmejia/os-utils)
-- [Popsicle Python integration for JUCE](https://github.com/kunitoki/popsicle) — [![GitHub Stars](https://img.shields.io/github/stars/kunitoki/popsicle?style=flat&logo=github)](https://github.com/kunitoki/popsicle)
 - [AudioKit DrumPad Playground](https://github.com/AudioKit/DrumPadPlayground) — [![GitHub Stars](https://img.shields.io/github/stars/AudioKit/DrumPadPlayground?style=flat&logo=github)](https://github.com/AudioKit/DrumPadPlayground)
 - [CPU-G](https://github.com/atareao/cpu-g) — [![GitHub Stars](https://img.shields.io/github/stars/atareao/cpu-g?style=flat&logo=github)](https://github.com/atareao/cpu-g)
 
