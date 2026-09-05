@@ -2,11 +2,11 @@
 
 <img alighn="center" alt="Banner" width="100%" src="https://github.com/WMRamadan/wmramadan/blob/main/images/server_slim_banner.jpg" />
 
-## Here are some facts about me.
+## Here are some fun facts.
 
-- My journey with programming started when I was very young in 1991 when JavaScript wasn't created yet and my journey with Linux began in 1998 when it started to be taken seriously on the server side.
-- My hobby is making music, messing around with different technologies, being a wanna be audiophile and home labbing till it hurts.
-- Fun fact: The Hurd kernel was the GNU Project’s original kernel, meant to create a fully free Unix-like OS (GNU OS), but due to slow progress Linux became the official GNU kernel creating GNU/Linux.
+- The Hurd kernel was the GNU Project’s original kernel, meant to create a fully free Unix-like OS (GNU OS), but due to slow progress Linux became the official GNU kernel creating GNU/Linux.
+- Docker began as technology inside a company called dotCloud, which was the their PaaS product. Eventually Docker became the name of the technology and the company which became vastly more famous than dotCloud itself.
+- Kubernetes was originally an internal Google project called Project Seven, named after a character from Star Trek Voyager. The name Kubernetes comes from Greek term that means helmsman or pilot, which is someone who steers a ship. That's also why the logo looks like a ship's wheel.
 
 [![GitHub Stars](https://img.shields.io/github/stars/WMRamadan?logo=github&style=for-the-badge)](https://github.com/WMRamadan)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSA1wW7mGJOE5hEhXTO6enQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://youtube.com/@WMRamadan)
